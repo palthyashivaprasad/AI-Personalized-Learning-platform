@@ -1021,11 +1021,11 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 ### 👨‍💻 Author
 
-**Akash Singh**
+**Palthya Shiva Prasad**
 
 B.Tech Computer Science & Engineering
 
-[![GitHub](https://img.shields.io/badge/GitHub-AkashSingh040-181717?logo=github)](https://github.com/AkashSingh040)
+[![GitHub](https://img.shields.io/badge/GitHub-Palthyashivaprasad-181717?logo=github)](https://github.com/palthyashivaprasad)
 
 ⭐ If you found this project helpful, please give it a star — it helps others discover it!
 
